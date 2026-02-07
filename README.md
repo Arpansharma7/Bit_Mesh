@@ -1,4 +1,4 @@
-# BitTorrent Client (Python)
+# BitTorrent Client using Python
 
 A lightweight, BitTorrent client implemented in Python, built for peer-to-peer networking and the core application of the BitTorrent protocol.
 
